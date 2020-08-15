@@ -1,5 +1,5 @@
-# Dell Latitude-7390 (non 2-in-1 model) OpenCore Hackintosh
-> So I can keep MY7390 Hackintosh up-to-date
+## Latitude-7390 (non 2-in-1 model) OpenCore
+> So I can keep my Hackintosh up-to-date
 
 * i7-8650U, 32gb DDR4
 * Replace wifi with Broadcom BCM43xx (Dell 1560)
@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/niiknow/Hackintosh-Latitude-7390/master/screen.png?raw=true)
 
 ## Software
-* OpenCore 0.6 - Kaby Lake sytem need opencore 0.6+
+* OpenCore 0.6 - Kaby Lake sytem requires opencore 0.6 and up
 * Catalina 10.15.6
 
 
