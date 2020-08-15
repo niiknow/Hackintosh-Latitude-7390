@@ -5,6 +5,7 @@
 * Replace wifi with Broadcom BCM43xx (Dell 1560)
 * Replace storage with 1TB Sabrent Rocket Q
 
+![](https://raw.githubusercontent.com/niiknow/Hackintosh-Latitude-7390/master/screen.png?raw=true)
 
 ## Software
 * OpenCore 0.6 - Kaby Lake sytem need opencore 0.6+
